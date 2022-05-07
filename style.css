@@ -90,6 +90,7 @@ main .stat-box p {
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px;
+    margin-top: 4px;
 }
 
 main .img-box {
